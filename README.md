@@ -14,4 +14,4 @@ The core of the method is an LSTM-based neural network, chosen because it excels
 
 <img width="583" height="453" alt="image" src="https://github.com/user-attachments/assets/5a59b9bf-14f8-43d6-88d2-302e2e07e8cf" />
 
-<img width="1508" height="821" alt="Capture d’écran 2025-08-11 à 19 57 04" src="https://github.com/user-attachments/assets/da9281a6-f66c-4ae3-9d18-bf95e723852d" />
+<img width="1512" height="822" alt="Capture d’écran 2025-08-11 à 20 03 08" src="https://github.com/user-attachments/assets/c5c7ce89-0ec6-45df-b9d3-42a42e8c23e3" />
